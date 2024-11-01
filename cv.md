@@ -1,25 +1,23 @@
-#Alexandr Holubev
-===
-##Contacts
+# Alexandr Holubev
+
+## Contacts
 * **Location:** Minsk, Belarus
 * **Email:** holubev@gmail.com
 * **GitHub:** wert1999
-===
 
-##About Me
+## About Me
+
 I'm 50 years old. I work in a print shop, in the prepress department.
-===
 
-##Skills
+## Skills
 * Python
 * JavaSript(basic)
 * Adobe Create Suits
 * Corel
 * ArtPro+
 * Esko Software
-===
 
-##Code Examples
+## Code Examples
 ```
 function importXML(xmlPath)
 {
@@ -42,18 +40,16 @@ function importXML(xmlPath)
 	}
 }
 ```
-===
 
-##Education
+
+## Education
 Belarusian National Technical University
 
 Software for computer engineering
-===
 
-##Courses:
+## Courses:
 * **ml-intro-2022Q1** [https://app.rs.school/certificate/gf4kastf]
-===
 
-##Languages
+## Languages
 * **Russian** - native speaker.
 * **English** - A1. I'm ashamed (\*^^*)
