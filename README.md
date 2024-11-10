@@ -1,2 +1,2 @@
-# rsschool-cv
-[https://wert1999.github.io/rsschool-cv/cv]
+# rsschool-cv-html
+[https://wert1999.github.io/rsschool-cv]
